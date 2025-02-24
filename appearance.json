@@ -1,0 +1,11 @@
+{
+  "accentColor": "#7f6df2",
+  "baseFontSize": 28,
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "textFontFamily": "CMU Serif",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "indent_headings"
+  ]
+}

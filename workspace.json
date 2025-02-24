@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "0d6b1b1329bd7e5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "093adca320ea0f4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "105a1dacb2d1ea64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Work/02_Consults/Consults.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Consults"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3c82f7a9d4ba1d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "595304101adc1298",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2535d689c1dc5bfe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "09c47affd2145c25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9e0af37be82eee4b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b833dc66d5926658",
+    "type": "split",
+    "children": [
+      {
+        "id": "684add283ccd9105",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57bfa528382c25d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02_Work/02_Consults/Consults.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Consults"
+            }
+          },
+          {
+            "id": "da0ee0432980d184",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02_Work/02_Consults/Consults.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Consults"
+            }
+          },
+          {
+            "id": "f3ac84daf99e8941",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "acf76affcc20e32e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02_Work/02_Consults/Consults.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Consults"
+            }
+          },
+          {
+            "id": "617379538b529f94",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "54deb867ddc5c156",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "105a1dacb2d1ea64",
+  "lastOpenFiles": [
+    "Notetaking MOC.md",
+    "Notetaking Workflows.md",
+    "PARA System.md",
+    "Online Bookstores.md",
+    "Reading.md",
+    "Quotes.md",
+    "04 - Music MOC.md",
+    "01 - Learning MOC.md",
+    "05 - Recipes MOC.md",
+    "Machine Learning and Statistics.md",
+    "To Listen.md",
+    "MystMD.md",
+    "Inbox/Cox Proportional Hazards Analysis Demo.md",
+    "Books Read - 2023.md",
+    "Active Subscriptions.md",
+    "03 - Finance MOC.md",
+    "Untitled.md",
+    "Inbox",
+    "02 - Reading MOC.md",
+    "Vegetarian Recipes.md",
+    "To Read.md",
+    "Reality is Not What it Seems.md",
+    "Linear Algebra.md",
+    "Fitness Routines.md",
+    "Fitness.md",
+    "Facts.md",
+    "Notetaking",
+    "Interesting Stats.md",
+    "Learning",
+    "Finance",
+    "2_areas",
+    "Fitness",
+    "Templates",
+    "Daily"
+  ]
+}
