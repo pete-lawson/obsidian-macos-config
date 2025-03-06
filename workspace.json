@@ -4,24 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "cca417764e471082",
+        "id": "d50b0f72e4e49bc6",
         "type": "tabs",
         "children": [
           {
-            "id": "bbcae2bbe62779ef",
+            "id": "3bd680a7be49bd79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Work/Journal/Daily/2025-02-24-Monday.md",
+                "file": "Templates/Journal/Daily.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-24-Monday"
+              "title": "Daily"
+            }
+          },
+          {
+            "id": "2005fba0af60ee93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Research Computing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Research Computing"
+            }
+          },
+          {
+            "id": "ab8c8ac11b09c651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Work/03_Areas/AI Literacy/AI Literacy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI Literacy"
+            }
+          },
+          {
+            "id": "efa9d8cab10919a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/AI Literacy Meeting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI Literacy Meeting"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,17 +138,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Work/Journal/Daily/2025-02-24-Monday.md",
+                "file": "Inbox/Python Beginners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-02-24-Monday"
+              "title": "Backlinks for Python Beginners"
             }
           },
           {
@@ -114,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Work/Journal/Daily/2025-02-24-Monday.md",
+                "file": "Inbox/Python Beginners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-02-24-Monday"
+              "title": "Outgoing links from Python Beginners"
             }
           },
           {
@@ -143,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Work/Journal/Daily/2025-02-24-Monday.md",
+                "file": "Inbox/Python Beginners.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-02-24-Monday"
+              "title": "Outline of Python Beginners"
             }
           },
           {
@@ -168,12 +211,32 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9cdc174bd7d860e4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "fdcf4f2c4b3b0fc1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -186,42 +249,41 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "bbcae2bbe62779ef",
+  "active": "efa9d8cab10919a3",
   "lastOpenFiles": [
-    "02_Work/Journal/Daily/2025-02-24-Monday.md",
-    "Inbox/2025-02-24.md",
+    "02_Work/03_Areas/AI Literacy/AI Literacy.md",
+    "Inbox/AI Literacy Meeting.md",
+    "Inbox/Untitled 3.md",
+    "02_Work/Journal/Daily/2025-03-06-Thursday.md",
+    "02_Work/Journal/Daily/2025-02-28-Friday.md",
+    "02_Work/02_Consults/01_Active/Kwang Soo Cheong.md",
     "02_Work/02_Consults/Consults.md",
-    "Notetaking MOC.md",
-    "Notetaking Workflows.md",
-    "PARA System.md",
-    "Online Bookstores.md",
-    "Reading.md",
-    "Quotes.md",
-    "04 - Music MOC.md",
-    "01 - Learning MOC.md",
-    "05 - Recipes MOC.md",
-    "Machine Learning and Statistics.md",
-    "To Listen.md",
-    "MystMD.md",
-    "Inbox/Cox Proportional Hazards Analysis Demo.md",
-    "Books Read - 2023.md",
-    "Active Subscriptions.md",
-    "03 - Finance MOC.md",
-    "Untitled.md",
+    "02_Work/02_Consults/02_Complete/consults.md",
+    "02_Work/Journal/Daily/2025-02-24-Monday.md",
+    "02_Work/Resources/Data Sources 1.md",
+    "02_Work/02_Consults/02_Complete/Jenna Frye.md",
+    "02_Work/03_Areas/Instruction/Storytelling with Data.md",
+    "02_Work/04_Working_Groups/CARCC Anaconda Transition Working Group.md",
+    "02_Work/04_Working_Groups/DS Anaconda Transition Working Group.md",
+    "02_Work/02_Consults/01_Active/Rudyard Kretschmar.md",
+    "Inbox/DISCOVERY.md",
+    "Inbox/Research Computing.md",
+    "Templates/Journal/Daily.md",
+    "02_Work/01_Projects/01_Active/HARC Data Visualization Presentation.md",
+    "01_Personal/Notes/Finance.md",
+    "Inbox/Python Beginners.md",
+    "02_Work/01_Projects/01_Active/ADI Mentor Letters SSF & PURA.md",
+    "02_Work/Contacts/aditya_santosh_kondepudi.md",
+    "02_Work/Journal/Daily/2025-02-26-Wednesday.md",
+    "02_Work/Resources/DS Computer Lab.md",
+    "Inbox/HAL AI Literacy.md",
     "Inbox",
-    "02 - Reading MOC.md",
-    "Vegetarian Recipes.md",
-    "To Read.md",
-    "Reality is Not What it Seems.md",
-    "Linear Algebra.md",
-    "Fitness Routines.md",
     "Notetaking",
     "Learning",
     "Finance",
