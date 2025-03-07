@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d50b0f72e4e49bc6",
+        "id": "58479645b945d870",
         "type": "tabs",
         "children": [
           {
-            "id": "3bd680a7be49bd79",
+            "id": "cafd385372bcc909",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Journal/Daily.md",
+                "file": "02_Work/04_Working_Groups/Working Groups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily"
-            }
-          },
-          {
-            "id": "2005fba0af60ee93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Research Computing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Research Computing"
-            }
-          },
-          {
-            "id": "ab8c8ac11b09c651",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Work/03_Areas/AI Literacy/AI Literacy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AI Literacy"
-            }
-          },
-          {
-            "id": "efa9d8cab10919a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/AI Literacy Meeting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AI Literacy Meeting"
+              "title": "Working Groups"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b833dc66d5926658",
@@ -231,12 +187,52 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "129604b3701f6018",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "8a2b93404396594d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "057397f21e05d802",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b0cc7714dffec727",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -255,41 +251,43 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "efa9d8cab10919a3",
+  "active": "cafd385372bcc909",
   "lastOpenFiles": [
-    "02_Work/03_Areas/AI Literacy/AI Literacy.md",
-    "Inbox/AI Literacy Meeting.md",
-    "Inbox/Untitled 3.md",
-    "02_Work/Journal/Daily/2025-03-06-Thursday.md",
-    "02_Work/Journal/Daily/2025-02-28-Friday.md",
-    "02_Work/02_Consults/01_Active/Kwang Soo Cheong.md",
+    "02_Work/04_Working_Groups/01_Active/Instruction Mapping/Instruction Mapping.md",
+    "02_Work/04_Working_Groups/01_Active/Instruction Mapping/Instruction Mapping Working Group.md",
+    "02_Work/04_Working_Groups/Working Groups.md",
+    "02_Work/04_Working_Groups/01_Active/AI Interest Group/AI Interest Group 2025-02-06 Thursday.md",
+    "02_Work/04_Working_Groups/01_Active/AI Interest Group/AI Interest WG Inaugural Meeting 2024-04-29 Mon.md",
     "02_Work/02_Consults/Consults.md",
-    "02_Work/02_Consults/02_Complete/consults.md",
-    "02_Work/Journal/Daily/2025-02-24-Monday.md",
-    "02_Work/Resources/Data Sources 1.md",
-    "02_Work/02_Consults/02_Complete/Jenna Frye.md",
-    "02_Work/03_Areas/Instruction/Storytelling with Data.md",
-    "02_Work/04_Working_Groups/CARCC Anaconda Transition Working Group.md",
+    "02_Work/04_Working_Groups/all_staff_assembly_planning_committee.md",
+    "02_Work/04_Working_Groups/carey_business_school_working_group.md",
     "02_Work/04_Working_Groups/DS Anaconda Transition Working Group.md",
-    "02_Work/02_Consults/01_Active/Rudyard Kretschmar.md",
-    "Inbox/DISCOVERY.md",
-    "Inbox/Research Computing.md",
-    "Templates/Journal/Daily.md",
-    "02_Work/01_Projects/01_Active/HARC Data Visualization Presentation.md",
-    "01_Personal/Notes/Finance.md",
-    "Inbox/Python Beginners.md",
-    "02_Work/01_Projects/01_Active/ADI Mentor Letters SSF & PURA.md",
-    "02_Work/Contacts/aditya_santosh_kondepudi.md",
-    "02_Work/Journal/Daily/2025-02-26-Wednesday.md",
-    "02_Work/Resources/DS Computer Lab.md",
-    "Inbox/HAL AI Literacy.md",
-    "Inbox",
-    "Notetaking",
-    "Learning",
-    "Finance",
-    "2_areas",
-    "Fitness",
-    "Templates",
-    "Daily"
+    "02_Work/04_Working_Groups/01_Active/Social Science Collections Committee.md",
+    "02_Work/04_Working_Groups/carcc ai facilitation materials working group.md",
+    "02_Work/05_Hiring/01_Active/Said Shafik Interview.md",
+    "02_Work/05_Hiring/Cynthia Vitale - 2023-11-08.md",
+    "02_Work/05_Hiring/01_Active/Matthew Treskon Interview.md",
+    "02_Work/05_Hiring/01_Active/Leslie Christianson Interview.md",
+    "02_Work/05_Hiring/01_Active/Kristen Kinsley Interview.md",
+    "02_Work/05_Hiring/01_Active/Bryan Fuller Interview.md",
+    "02_Work/05_Hiring/01_Active/Data Access Interview Question Notes Template.md",
+    "02_Work/05_Hiring/01_Active/Chelsea Barret Interview.md",
+    "02_Work/05_Hiring/01_Active",
+    "02_Work/04_Working_Groups/03_Completed/CBS XR WG.md",
+    "02_Work/04_Working_Groups/working_groups.org_archive.md",
+    "02_Work/04_Working_Groups/03_Completed/Love Data Week 2025/Speaker and Attendee Communication LDW25.md",
+    "02_Work/04_Working_Groups/01_Active/DVS CoP.md",
+    "02_Work/04_Working_Groups/03_Completed/Love Data Week 2025/Partnerships LDW25.md",
+    "02_Work/04_Working_Groups/03_Completed/Untitled/Untitled",
+    "02_Work/04_Working_Groups/03_Completed/Love Data Week 2025",
+    "02_Work/04_Working_Groups/01_Active/IDIES Executive Committee/IDIES Executive Committee.md",
+    "02_Work/04_Working_Groups/idies_executive_committee.md",
+    "02_Work/04_Working_Groups/01_Active/IDIES Executive Committee",
+    "02_Work/04_Working_Groups/01_Active/Instruction Mapping",
+    "02_Work/04_Working_Groups/01_Active/AI Interest Group/DS AI Initiatives",
+    "02_Work/04_Working_Groups/01_Active/AI Interest Group/Data Science in the Libraries",
+    "02_Work/04_Working_Groups/01_Active/AI Interest Group",
+    "02_Work/04_Working_Groups/01_Active",
+    "Inbox"
   ]
 }
