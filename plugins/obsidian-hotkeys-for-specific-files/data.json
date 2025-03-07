@@ -1,0 +1,18 @@
+{
+  "files": [
+    {
+      "useMoment": false,
+      "file": "02_Work/01_Projects/Projects.md"
+    },
+    {
+      "useMoment": false,
+      "file": "02_Work/02_Consults/Consults.md"
+    },
+    {
+      "useMoment": false,
+      "file": "02_Work/04_Working_Groups/Working Groups.md"
+    }
+  ],
+  "useExistingPane": true,
+  "useHoverEditor": false
+}
