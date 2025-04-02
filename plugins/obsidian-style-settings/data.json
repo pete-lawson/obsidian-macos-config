@@ -25,5 +25,6 @@
   "minimal-style@@h5-size": ".9em",
   "minimal-style@@h5-color@@dark": "#689D6A",
   "minimal-style@@h6-font": "CMU Sans Serif Demi Condensed",
-  "minimal-style@@h6-color@@dark": "#CC241D"
+  "minimal-style@@h6-color@@dark": "#CC241D",
+  "minimal-style@@trim-cols": false
 }
