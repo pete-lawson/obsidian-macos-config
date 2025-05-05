@@ -9,5 +9,7 @@
   "obsidian-file-link",
   "obsidian-hotkeys-for-specific-files",
   "calendar",
-  "quickadd"
+  "quickadd",
+  "obsidian-vimrc-support",
+  "templater-obsidian"
 ]

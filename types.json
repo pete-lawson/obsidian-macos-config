@@ -3,6 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "DueDate": "date"
+    "DueDate": "date",
+    "Project": "text"
   }
 }

@@ -2,15 +2,23 @@
   "files": [
     {
       "useMoment": false,
-      "file": "02_Work/01_Projects/Projects.md"
+      "file": "02_Work/01_Projects/Projects MOC.md"
     },
     {
       "useMoment": false,
-      "file": "02_Work/02_Consults/Consults.md"
+      "file": "02_Work/02_Consults/Consults MOC.md"
     },
     {
       "useMoment": false,
-      "file": "02_Work/04_Working_Groups/Working Groups.md"
+      "file": "02_Work/04_Working_Groups/Working Groups MOC.md"
+    },
+    {
+      "useMoment": false,
+      "file": "02_Work/MOCs.md"
+    },
+    {
+      "useMoment": false,
+      "file": "02_Work/Meetings/📝 Meeting MOC.md"
     }
   ],
   "useExistingPane": true,

@@ -1,9 +1,12 @@
 {
   "accentColor": "#7f6df2",
-  "baseFontSize": 28,
+  "baseFontSize": 24,
   "cssTheme": "Minimal",
-  "theme": "obsidian",
+  "theme": "system",
   "textFontFamily": "CMU Serif",
-  "translucency": false,
-  "enabledCssSnippets": []
+  "translucency": true,
+  "enabledCssSnippets": [],
+  "nativeMenus": true,
+  "showRibbon": false,
+  "showViewHeader": false
 }
