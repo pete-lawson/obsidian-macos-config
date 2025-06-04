@@ -4,6 +4,8 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "DueDate": "date",
-    "Project": "text"
+    "Project": "text",
+    "Completion Date": "date",
+    "CompletionDate": "date"
   }
 }

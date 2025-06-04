@@ -339,5 +339,13 @@
       ],
       "key": "M"
     }
+  ],
+  "obsidian-hotkeys-for-specific-files:02_Work/03_Areas/Areas.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "A"
+    }
   ]
 }

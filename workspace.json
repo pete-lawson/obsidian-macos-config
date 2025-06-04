@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "16fcf38ee5d96f21",
+        "id": "285b2430886fc2e1",
         "type": "tabs",
         "children": [
           {
-            "id": "0899472c56dc5ff0",
+            "id": "a53df766d877d70a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Trump’s War on Measurement Means Losing Data on Drug Use, Maternal Mortality, Climate Change and More.md",
+                "file": "02_Work/01_Projects/01_Active/Data Refuge.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Trump’s War on Measurement Means Losing Data on Drug Use, Maternal Mortality, Climate Change and More"
+              "title": "Data Refuge"
             }
           },
           {
-            "id": "6dc436d37a13f26c",
+            "id": "6ca66bb0903e83dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Work/01_Projects/01_Active/Data Bytes Fall 2025.md",
+                "file": "Inbox/Meeting with Betsy Regarding Data Refuge.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,34 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data Bytes Fall 2025"
-            }
-          },
-          {
-            "id": "eb7cb7426f49a41b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Project.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Project"
+              "title": "Meeting with Betsy Regarding Data Refuge"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,13 +109,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b833dc66d5926658",
@@ -253,12 +228,106 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "8be754de22cc94f9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3a058daba13fbf46",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "13af9256ce689472",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6d3931ef408309e0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "8a7d7f4fca5ec030",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Work/Resources/DS Computer Lab.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DS Computer Lab"
+            }
+          },
+          {
+            "id": "a322bb383006cb2f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0f8bb607f155dd69",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "883478a787903e0b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 15
       }
     ],
     "direction": "horizontal",
@@ -278,34 +347,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0899472c56dc5ff0",
+  "active": "6ca66bb0903e83dc",
   "lastOpenFiles": [
-    "Inbox/To Read.md",
-    "02_Work/Resources/Daily Review.md",
-    "02_Work/Journal/Daily/2025-05-01-Thursday.md",
-    "02_Work/Journal/Daily/2025-04-30-Wednesday.md",
-    "Inbox/Untitled 7.md",
-    "Inbox/Untitled 6.md",
-    "02_Work/02_Consults/Consults MOC.md",
-    "02_Work/03_Areas/Data Access/Data Grant.md",
-    "02_Work/04_Working_Groups/01_Active/AI_Literacy_WGs/AI IG Patron Subcommittee.md",
-    "02_Work/04_Working_Groups/Working Groups MOC.md",
-    "02_Work/01_Projects/Projects MOC.md",
-    "Literature/Trump’s War on Measurement Means Losing Data on Drug Use, Maternal Mortality, Climate Change and More.md",
-    "02_Work/03_Areas/Admin/Accomplishments.md",
-    "02_Work/01_Projects/01_Active/Data Bytes Fall 2025.md",
-    "Inbox/Untitled 5.md",
-    "02_Work/Journal/Weekly/2025-W18.md",
-    "02_Work/MOCs.md",
-    "02_Work/01_Projects/01_Active/Accessible Data Visualization Presentation.md",
-    "02_Work/Meetings/2025-04-30 Accessible Data Visualization Presentation Discussion - Kathy Cahill.md",
-    "Templates/Project.md",
-    "02_Work/Journal/Daily/2025-04-29-Tuesday.md",
-    "02_Work/Journal/Daily/2025-04-28-Monday.md",
-    "02_Work/Meetings/📝 Meeting MOC.md",
-    "02_Work/01_Projects/01_Active/Data Grant FY25.md",
     "02_Work/01_Projects/01_Active/Data Refuge.md",
-    "02_Work/01_Projects/01_Active/Create CNTS Dataverse Entry.md",
+    "02_Work/01_Projects/Projects MOC.md",
+    "02_Work/03_Areas/Admin/Admin.md",
+    "02_Work/Resources/Daily Review.md",
+    "02_Work/01_Projects/01_Active/Virtual Data Enclave.md",
+    "Inbox/Meeting with Betsy Regarding Data Refuge.md",
+    "02_Work/02_Consults/01_Active/Alysse Kowalski and Lauren Klein.md",
+    "CFData-MIHOPE (1) 1.pdf",
+    "CFData-MIHOPE (1).pdf",
+    "02_Work/02_Consults/Consults MOC.md",
+    "02_Work/Resources/System Administration.md",
+    "02_Work/Journal/Daily/2025-04-02-Wednesday.md",
+    "02_Work/03_Areas/Data Access/Data Grant.md",
+    "Inbox/Weekly Review.md",
+    "Templates/Journal/Weekly.md",
+    "Inbox/Pratama Tenure Review.md",
+    "02_Work/01_Projects/01_Active/No-Code Database Evaluation.md",
+    "02_Work/03_Areas/Areas.md",
+    "02_Work/01_Projects/01_Active/Libraries Meta Evaluation.md",
+    "02_Work/04_Working_Groups/Working Groups MOC.md",
+    "02_Work/03_Areas/AI Literacy/AI Literacy.md",
+    "01_Personal/Notes/Shortcuts.md",
+    "02_Work/04_Working_Groups/01_Active/Research Computing and Libraries.md",
+    "02_Work/04_Working_Groups/02_Inactive/CaRCC Anaconda Transition Working Group.md",
+    "02_Work/04_Working_Groups/02_Inactive/AI Literacy - Libraries.md",
+    "02_Work/04_Working_Groups/01_Active/AI_Literacy_WGs/Patron AI Use Cases Working Group.md",
+    "02_Work/Work Index.md",
+    "02_Work/Resources/Leadership Resources.md",
     "Clippings",
     "Untitled.canvas",
     "02_Work/06_Workshops",
@@ -315,8 +386,6 @@
     "Files/linalgebra.pdf",
     "02_Work/06_Configuration",
     "02_Work/Meetings",
-    "02_Work/04_Working_Groups/01_Active/AI_Literacy_WGs",
-    "~/Dropbox/JHU/2_Consults/Nancy_Shin",
-    "~/Dropbox/JHU/2_Consults"
+    "02_Work/04_Working_Groups/01_Active/AI_Literacy_WGs"
   ]
 }
