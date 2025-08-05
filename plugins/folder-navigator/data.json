@@ -1,0 +1,18 @@
+{
+  "maxResults": 10,
+  "expandTargetFolder": true,
+  "debugMode": false,
+  "folderDisplayMode": "default",
+  "recentFoldersToShow": 5,
+  "frequentFoldersToShow": 5,
+  "folderHistory": {
+    "02_Work/02_Consults": {
+      "lastAccessed": 1752162579667,
+      "accessCount": 1
+    },
+    "Templates": {
+      "lastAccessed": 1752671330157,
+      "accessCount": 1
+    }
+  }
+}

@@ -287,14 +287,6 @@
       "key": "C"
     }
   ],
-  "obsidian-hotkeys-for-specific-files:02_Work/04_Working_Groups/Working Groups MOC.md": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "W"
-    }
-  ],
   "obsidian-hotkeys-for-specific-files:02_Work/MOCs.md": [
     {
       "modifiers": [
@@ -331,15 +323,6 @@
       "key": "D"
     }
   ],
-  "periodic-notes:open-weekly-note": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Shift"
-      ],
-      "key": "M"
-    }
-  ],
   "obsidian-hotkeys-for-specific-files:02_Work/03_Areas/Areas.md": [
     {
       "modifiers": [
@@ -347,5 +330,66 @@
       ],
       "key": "A"
     }
-  ]
+  ],
+  "templater-obsidian:create-Templates/Meetings/Meeting.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "templater-obsidian:create-Templates/Meeting - General.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "periodic-notes:open-yearly-note": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Y"
+    }
+  ],
+  "obsidian-hotkeys-for-specific-files:02_Work/04_Working_Groups/Working Groups MOC.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "G"
+    }
+  ],
+  "periodic-notes:open-weekly-note": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "W"
+    }
+  ],
+  "periodic-notes:prev-weekly-note": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "periodic-notes:next-weekly-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "workspace:close-window": []
 }

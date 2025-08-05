@@ -23,6 +23,10 @@
     {
       "useMoment": false,
       "file": "02_Work/03_Areas/Areas.md"
+    },
+    {
+      "useMoment": false,
+      "file": "02"
     }
   ],
   "useExistingPane": true,

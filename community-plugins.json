@@ -11,5 +11,6 @@
   "calendar",
   "quickadd",
   "obsidian-vimrc-support",
-  "templater-obsidian"
+  "templater-obsidian",
+  "folder-navigator"
 ]
