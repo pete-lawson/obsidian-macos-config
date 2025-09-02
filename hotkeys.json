@@ -77,14 +77,6 @@
       "key": "F"
     }
   ],
-  "periodic-notes:open-daily-note": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "D"
-    }
-  ],
   "file-explorer:move-file": [
     {
       "modifiers": [
@@ -132,15 +124,6 @@
         "Shift"
       ],
       "key": "T"
-    }
-  ],
-  "app:delete-file": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "D"
     }
   ],
   "editor:toggle-source": [
@@ -304,25 +287,6 @@
       "key": "M"
     }
   ],
-  "periodic-notes:next-daily-note": [
-    {
-      "modifiers": [
-        "Alt",
-        "Ctrl"
-      ],
-      "key": "D"
-    }
-  ],
-  "periodic-notes:prev-daily-note": [
-    {
-      "modifiers": [
-        "Alt",
-        "Ctrl",
-        "Shift"
-      ],
-      "key": "D"
-    }
-  ],
   "obsidian-hotkeys-for-specific-files:02_Work/03_Areas/Areas.md": [
     {
       "modifiers": [
@@ -391,5 +355,58 @@
       "key": "W"
     }
   ],
-  "workspace:close-window": []
+  "workspace:close-window": [],
+  "periodic-notes:open-daily-note": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "D"
+    }
+  ],
+  "periodic-notes:prev-daily-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "obsidian-zotero-desktop-connector:zdc-exp-article-notes": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-Cite": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "editor:toggle-fold-properties": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
 }

@@ -4,61 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b55e6efb5dbcb8e6",
+        "id": "99fcb313aa71d343",
         "type": "tabs",
         "children": [
           {
-            "id": "2e83ce28a0aac474",
+            "id": "8bc9ac14909497a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Work/Resources/Weekly Review.md",
-                "mode": "preview",
+                "file": "02_Work/Journal/Weekly/2025-W35.md",
+                "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Weekly Review"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0c7770e2a43a3e56",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "76b37fb08703b0a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Work/04_Working_Groups/Working Groups MOC.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Working Groups MOC"
+              "title": "2025-W35"
             }
           }
         ]
@@ -114,55 +75,21 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b833dc66d5926658",
     "type": "split",
     "children": [
       {
-        "id": "684add283ccd9105",
+        "id": "d3fbd7c11e9756ac",
         "type": "tabs",
+        "dimension": 29.528750540423694,
         "children": [
-          {
-            "id": "57bfa528382c25d2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "01_Personal/Notes/Focus Music.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Focus Music"
-            }
-          },
-          {
-            "id": "da0ee0432980d184",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Inbox/Python Beginners.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Python Beginners"
-            }
-          },
           {
             "id": "f3ac84daf99e8941",
             "type": "leaf",
@@ -179,47 +106,6 @@
             }
           },
           {
-            "id": "acf76affcc20e32e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Inbox/Python Beginners.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Python Beginners"
-            }
-          },
-          {
-            "id": "77ac801666310e47",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "b7250c9c89ad823d",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Inbox/Untitled 2.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for Untitled 2"
-            }
-          },
-          {
             "id": "6b7484601451d62a",
             "type": "leaf",
             "state": {
@@ -230,35 +116,101 @@
             }
           },
           {
-            "id": "cab2c3819ded1f35",
+            "id": "acf76affcc20e32e",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "type": "outline",
+              "state": {
+                "file": "Inbox/GenAI For Research Data - Data Visualization.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of GenAI For Research Data - Data Visualization"
             }
           },
           {
-            "id": "2474b5b225f3d0a6",
+            "id": "ede4c3c5e2e049df",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "type": "outgoing-link",
+              "state": {
+                "file": "02_Work/Journal/Weekly/2025-W35.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-W35"
+            }
+          },
+          {
+            "id": "b005dc3bc4f56734",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
+      },
+      {
+        "id": "24cb7b3227876220",
+        "type": "tabs",
+        "dimension": 33.50626891482922,
+        "children": [
+          {
+            "id": "c85e272ad22c8782",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02_Work/Journal/Weekly/2025-W35.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-W35"
+            }
+          }
+        ]
+      },
+      {
+        "id": "033b111ab6458fa7",
+        "type": "tabs",
+        "dimension": 36.964980544747085,
+        "children": [
+          {
+            "id": "de062d87793759d4",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "References"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 246.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -267,37 +219,43 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
+      "workspaces:Manage workspace layouts": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "2e83ce28a0aac474",
+  "active": "8bc9ac14909497a2",
   "lastOpenFiles": [
-    "02_Work/04_Working_Groups/Working Groups MOC.md",
-    "02_Work/Journal/Daily/2025-08-05-Tuesday.md",
-    "02_Work/Journal/Weekly/2025-W32.md",
-    "2025.md",
+    "Herd Mentakity.md",
     "02_Work/Resources/Weekly Review.md",
-    "02_Work/01_Projects/02_Someday/Develop and Launch Virtual Data Enclave.md",
-    "02_Work/Meetings/2025-08-05 2025-08-05 Responsible AI Module Discussion.md",
-    "02_Work/04_Working_Groups/02_Inactive/AI Literacy - Libraries.md",
-    "Templates/Meeting - General.md",
-    "Templates/Meeting - Project.md",
-    "02_Work/Journal/Daily/2025-08-04-Monday.md",
-    "02_Work/MOCs.md",
-    "01_Personal/Notes/Shortcuts.md",
-    "02_Work/Journal/Daily/2025-08-01-Friday.md",
-    "02_Work/Journal/Daily/2025-07-31-Thursday.md",
-    "01_Personal/Notes/To Read.md",
-    "02_Work/01_Projects/01_Active/Develop Instruction Map.md",
-    "02_Work/01_Projects/Projects MOC.md",
-    "02_Work/01_Projects/01_Active/Data Refuge.md",
-    "02_Work/Journal/Daily/2025-07-24-Thursday.md",
-    "02_Work/Journal/Weekly/2025-W31.md",
+    "Inbox/Data Analysis.md",
+    "02_Work/Journal/Weekly/2025-W35.md",
+    "02_Work/03_Areas/Data Access/Collection Development Policies.md",
+    "02_Work/03_Areas/Professional Development/Books.md",
+    "02_Work/03_Areas/Professional Development/Blogs, Podcasts, and Reading.md",
+    "Inbox/Resources.md",
+    "Resources.md",
     "02_Work/Resources/Resources.md",
-    "02_Work/Journal/Daily/2025-07-25-Friday.md",
-    "02_Work/01_Projects/01_Active/Virtual Data Enclave.md",
-    "02_Work/Journal/Weekly/2025-W29.md",
-    "Templates/Journal/Weekly.md",
+    "Inbox/test.md",
+    "02_Work/03_Areas/Data Access/Biomedical Data.md",
+    "02_Work/03_Areas/Professional Development/Active Learning.md",
+    "02_Work/Journal/Daily/2025-08-29-Friday.md",
+    "02_Work/Meetings/2025-08-29 Untitled 7.md",
+    "Inbox/2025-08-27-Wednesday.md",
+    "Inbox/@taghizadeh-poppSciServerSciencePlatform2020.md",
+    "02_Work/Journal/Daily/2025-09-02-Tuesday.md",
+    "02_Work/Resources/Teaching Inspiration.md",
+    "02_Work/03_Areas/Areas.md",
+    "02_Work/Meetings/2025-08-29 Meeting With Betsy to Discuss SciServer.md",
+    "02_Work/02_Consults/Consults MOC.md",
+    "02_Work/Resources/Daily Review.md",
+    "02_Work/Journal/Daily/2025-08-28-Thursday.md",
+    "02_Work/Journal/Daily/2025-08-25-Monday.md",
+    "02_Work/Journal/Daily/2025-08-26-Tuesday.md",
+    "Inbox/Projects.base",
+    "Untitled.canvas",
+    "Literature",
+    "Files/linalgebra.pdf",
+    "CFData-MIHOPE (1).pdf",
     "Scripts/NewMeetingNote.js",
     "Scripts",
     "NewMeetingNote.js",
@@ -305,11 +263,6 @@
     "02_Work/Journal/Yearly",
     "Pasted image 20250627160617.png",
     "CFData-MIHOPE (1) 1.pdf",
-    "CFData-MIHOPE (1).pdf",
-    "Clippings",
-    "Untitled.canvas",
-    "02_Work/06_Workshops",
-    "02_Work/05_Hiring/02_Inactive",
     "Files/Pasted image 20240830161447.png"
   ]
 }

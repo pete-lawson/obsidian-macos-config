@@ -1,0 +1,29 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "article-notes",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Cite",
+      "format": "template",
+      "cslStyle": "ieee",
+      "template": "[[{{citekey}}|{{title}}]]"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "article-notes",
+      "outputPathTemplate": "article-notes/@{{citekey}}.md",
+      "imageOutputPathTemplate": "article-notes/@{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Templates/article-notes.md",
+      "cslStyle": "ieee-with-url"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "shouldConcat": true
+}

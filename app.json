@@ -3,5 +3,7 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "propertiesInDocument": "visible",
+  "trashOption": "local"
 }

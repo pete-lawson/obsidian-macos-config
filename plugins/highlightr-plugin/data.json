@@ -1,0 +1,24 @@
+{
+  "highlighterStyle": "realistic",
+  "highlighterMethods": "inline-styles",
+  "highlighters": {
+    "Grey": "#CACFD9A6",
+    "Magenta": "#F272D4",
+    "Red": "#ED1842",
+    "Yellow": "#FFEB4D",
+    "Blue": "#24CAFF",
+    "Green": "#29C800",
+    "Purple": "#B272F2",
+    "Orange": "#F25D27"
+  },
+  "highlighterOrder": [
+    "Grey",
+    "Magenta",
+    "Red",
+    "Yellow",
+    "Blue",
+    "Green",
+    "Purple",
+    "Orange"
+  ]
+}

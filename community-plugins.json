@@ -1,5 +1,4 @@
 [
-  "obsidian-spaced-repetition",
   "obsidian-minimal-settings",
   "obsidian-style-settings",
   "omnisearch",
@@ -12,5 +11,9 @@
   "quickadd",
   "obsidian-vimrc-support",
   "templater-obsidian",
-  "folder-navigator"
+  "folder-navigator",
+  "obsidian-zotero-desktop-connector",
+  "highlightr-plugin",
+  "obsidian-pandoc",
+  "obsidian-pandoc-reference-list"
 ]
