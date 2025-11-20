@@ -2,7 +2,7 @@
   "accentColor": "#7f6df2",
   "baseFontSize": 18,
   "cssTheme": "Minimal",
-  "theme": "moonstone",
+  "theme": "system",
   "textFontFamily": "Lora",
   "translucency": false,
   "enabledCssSnippets": [],

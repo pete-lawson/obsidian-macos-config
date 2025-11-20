@@ -4,25 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "2fe598960d2133c7",
+        "id": "9e6998fc08a4c7ad",
         "type": "tabs",
         "children": [
           {
-            "id": "940b0ae94972105b",
+            "id": "83c7cfa00a09e5d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Work/01_Projects/Projects MOC.md",
+                "file": "02_Work/Journal/Daily/2025-10-31-Friday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Projects MOC"
+              "title": "2025-10-31-Friday"
+            }
+          },
+          {
+            "id": "bec7062e9f0c664a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Work/Journal/Daily/2025-11-20-Thursday.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-20-Thursday"
+            }
+          },
+          {
+            "id": "b97b4c6486a6344e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Work/04_Working_Groups/01_Active/Research IT and Libraries.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Research IT and Libraries"
+            }
+          },
+          {
+            "id": "910dda134154dc10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Work/Meetings/2025-11-13 IT and Libraries Monthly Meeting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-13 IT and Libraries Monthly Meeting"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 350.5,
+    "collapsed": true
   },
   "right": {
     "id": "b833dc66d5926658",
@@ -136,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Work/03_Areas/Admin/Admin.md",
+                "file": "02_Work/01_Projects/01_Active/Love Data Week 2026.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Admin"
+              "title": "Outgoing links from Love Data Week 2026"
             }
           },
           {
@@ -158,7 +205,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "24cb7b3227876220",
@@ -171,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Work/03_Areas/Admin/Admin.md",
+                "file": "02_Work/01_Projects/01_Active/Love Data Week 2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +229,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Admin"
+              "title": "Backlinks for Love Data Week 2026"
             }
           }
         ]
@@ -222,46 +270,47 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "940b0ae94972105b",
+  "active": "bec7062e9f0c664a",
   "lastOpenFiles": [
-    "02_Work/01_Projects/02_Someday/Libraries Meta Evaluation.md",
     "02_Work/01_Projects/Projects MOC.md",
-    "02_Work/01_Projects/03_Completed/DS Lab User Purge.md",
-    "02_Work/01_Projects/01_Active/Data Bytes Spring 2026.md",
-    "02_Work/01_Projects/01_Active/Data Workshops Chapter.md",
-    "02_Work/01_Projects/01_Active/CoreLogic Deposit Project.md",
-    "Inbox/uv.md",
-    "01_Personal/Notes/Tactical Barbell.md",
-    "02_Work/Resources/Python.md",
-    "02_Work/Resources/Python Configuration.md",
-    "02_Work/Journal/Daily/2025-09-29-Monday.md",
-    "Inbox/uv Demo.md",
-    "02_Work/Resources/Prompt Engineering.md",
-    "Inbox/Untitled 2.md",
-    "Inbox/Untitled 1.md",
-    "Inbox/Rachel Gattermeyer and Katie Carey Intro to JHPPAD.md",
-    "Inbox/Psych.md",
-    "02_Work/Meetings/2025-09-29 Untitled.md",
-    "02_Work/04_Working_Groups/01_Active/AI_Literacy_WGs/Patron AI Use Cases Working Group.md",
-    "02_Work/04_Working_Groups/Working Groups MOC.md",
-    "02_Work/Journal/Weekly/2025-W40.md",
-    "02_Work/Meetings/2025-09-29 Liaison and AI Patron Working Group Meeting.md",
+    "02_Work/Journal/Daily/2025-11-20-Thursday.md",
+    "02_Work/01_Projects/01_Active/Data Portraits.md",
+    "02_Work/Meetings/2025-11-19 DIAS Directorate Meeting Digital Strategy Planning.md",
+    "02_Work/Resources/Digital Infrastructure, Applications and Services Directorate.md",
     "02_Work/Meetings/📝 Meeting MOC.md",
-    "02_Work/Resources/Patron AI Use Cases.md",
-    "02_Work/03_Areas/Professional Development/Workshops/EDUCAUSE New Managers Institute.md",
-    "02_Work/03_Areas/Professional Development/Workshops/EDUCAUSE New Managers Institute Homework.md",
-    "Clippings",
-    "Untitled",
-    "Files/CFData-MIHOPE (1) 1.pdf",
-    "Files/CFData-MIHOPE (1).pdf",
+    "02_Work/04_Working_Groups/01_Active/AI Steering Group.md",
+    "JHU Proposal V3 1.pdf",
+    "JHU Proposal V3.pdf",
+    "02_Work/01_Projects/01_Active/Dumb Data.md",
+    "02_Work/04_Working_Groups/Working Groups MOC.md",
+    "02_Work/Journal/Daily/2025-11-18-Tuesday.md",
+    "02_Work/Resources/Data Sources.md",
+    "01_Personal/Notes/Vim Commands.md",
+    "02_Work/Resources/DS Computer Lab.md",
+    "02_Work/Resources/Performance.md",
+    "02_Work/04_Working_Groups/01_Active/AI_Literacy_WGs/AI Interest Group/AI Interest Group.md",
+    "02_Work/Contacts/Elisabeth Long.md",
+    "02_Work/04_Working_Groups/01_Active/Research IT and Libraries.md",
+    "02_Work/04_Working_Groups/01_Active/AI Steering Group 1.md",
+    "Inbox/Untitled 3.md",
+    "02_Work/01_Projects/01_Active/Johns Hopkins Preservation of Publicly Available Data.md",
+    "02_Work/01_Projects/01_Active/Introduction to APIs Workshops.md",
+    "02_Work/Journal/Daily/2025-10-31-Friday.md",
+    "02_Work/Meetings/2025-11-13 IT and Libraries Monthly Meeting.md",
+    "02_Work/Journal/Daily/2025-11-12-Wednesday.md",
+    "Inbox/Ashley and Pete One on One.md",
+    "02_Work/Resources/Research IT & University Libraries Monthly Meetings.md",
+    "~/Dropbox/JHU/1_Projects/01_Active/Carpentries_at_Hopkins",
+    "~/Dropbox/JHU/1_Projects/01_Active",
+    "~/Dropbox/JHU/1_Projects",
+    "~/Dropbox/JHU",
+    "~/Dropbox",
+    "~",
+    "Pasted image 20251006085210.png",
+    "Inbox/Untitled.base",
+    "Templates/Meeting",
     "Pasted image 20250627160617.png",
     "Untitled.canvas",
-    "Inbox/Projects.base",
-    "Literature",
-    "Files/linalgebra.pdf",
-    "Scripts/NewMeetingNote.js",
-    "Scripts",
-    "NewMeetingNote.js",
     "Files/Pasted image 20240830161447.png"
   ]
 }

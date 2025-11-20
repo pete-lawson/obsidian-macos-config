@@ -1,0 +1,24 @@
+/* Apply serif font just to Base tables */
+/* Serif font for all Bases tables (inline and full-page) */
+/* Inline Base tables only */
+
+.workspace-leaf-content .bases-view .bases-table .bases-td {
+    font-size: var(--font-text-size) !important;
+    font-family: "Lora", serif !important;
+}
+.cm-s-obsidian .cm-fenced-code.cm-language-bases {
+  font-family: "Lora", serif !important;
+  font-size: 1em !important;
+  font-weight: 400 !important;
+  background: none !important;
+  color: var(--text-normal);
+}
+
+.markdown-preview-view pre.language-bases code {
+  font-family: "Lora", serif !important;
+  font-size: 1em !important;
+  font-weight: 400 !important;
+  background: none !important;
+  color: var(--text-normal);
+}
+

@@ -3,6 +3,10 @@
   "templates_folder": "",
   "templates_pairs": [
     [
+      "tp.user.create-accomplishment",
+      "create-accomplishment"
+    ],
+    [
       "",
       ""
     ]
@@ -29,7 +33,12 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "Templates/Meeting - General.md",
+    "Templates/Meeting/General.md",
+    "Templates/Accomplishment.md",
+    "Templates/Consult.md",
+    "Templates/Meeting/Consult.md",
+    "Templates/Meeting/Project.md",
+    "Templates/Meeting/Working Group.md",
     ""
   ],
   "startup_templates": [

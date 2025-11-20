@@ -270,23 +270,6 @@
       "key": "C"
     }
   ],
-  "obsidian-hotkeys-for-specific-files:02_Work/MOCs.md": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Shift"
-      ],
-      "key": "M"
-    }
-  ],
-  "obsidian-hotkeys-for-specific-files:02_Work/Meetings/📝 Meeting MOC.md": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "M"
-    }
-  ],
   "obsidian-hotkeys-for-specific-files:02_Work/03_Areas/Areas.md": [
     {
       "modifiers": [
@@ -296,15 +279,6 @@
     }
   ],
   "templater-obsidian:create-Templates/Meetings/Meeting.md": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "M"
-    }
-  ],
-  "templater-obsidian:create-Templates/Meeting - General.md": [
     {
       "modifiers": [
         "Mod",
@@ -400,13 +374,66 @@
       "key": "C"
     }
   ],
-  "editor:toggle-fold-properties": [
+  "templater-obsidian:create-Templates/Accomplishment.md": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ],
+  "obsidian-hotkeys-for-specific-files:02_Work/Meetings/📝 Meeting MOC.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "M"
+    }
+  ],
+  "templater-obsidian:create-Templates/Meeting - General.md": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "templater-obsidian:create-Templates/Meeting/General.md": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "templater-obsidian:create-Templates/Meeting/Project.md": [
     {
       "modifiers": [
         "Ctrl",
         "Shift"
       ],
       "key": "P"
+    }
+  ],
+  "templater-obsidian:create-Templates/Meeting/Working Group.md": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "templater-obsidian:create-Templates/Meeting/Consult.md": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "C"
     }
   ]
 }
