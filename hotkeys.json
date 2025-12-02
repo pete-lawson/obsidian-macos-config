@@ -117,15 +117,6 @@
       "key": "R"
     }
   ],
-  "insert-template": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Shift"
-      ],
-      "key": "T"
-    }
-  ],
   "editor:toggle-source": [
     {
       "modifiers": [
@@ -434,6 +425,15 @@
         "Shift"
       ],
       "key": "C"
+    }
+  ],
+  "templater-obsidian:create-new-note-from-template": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "T"
     }
   ]
 }
